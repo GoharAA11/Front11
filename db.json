@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": "f27d",
+      "text": "Running",
+      "completed": false
+    },
+    {
+      "id": "dc2e",
+      "text": "Eat",
+      "completed": true
+    },
+    {
+      "id": "9172",
+      "text": "Do workout",
+      "completed": false
+    },
+    {
+      "id": "6e6a",
+      "text": "Write homework",
+      "completed": false
+    },
+    {
+      "id": "afe5",
+      "text": "Drink water",
+      "completed": false
+    },
+    {
+      "id": "dafe",
+      "text": "Go party",
+      "completed": false
+    }
+  ]
+}
